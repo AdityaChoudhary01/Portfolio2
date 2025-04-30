@@ -37,7 +37,7 @@ function Contact() {
   const handleChange = e => setFormData(f => ({...f, [e.target.name]: e.target.value}));
   const handleSubmit = e => {
     e.preventDefault();
-    axios.post("http://localhost:5000/api/contact", formData).then(() => setSent(true));
+    axios.post("https://portfolio2-backend.onrender.com/api/contact", formData).then(() => setSent(true));
   };
 
   return (
