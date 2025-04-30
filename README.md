@@ -1,5 +1,5 @@
 # MERN Portfolio
-
+# LIVE DEMO https://adityachoudharyyportfolio.netlify.app/
 This is a full animated, colorful MERN portfolio project with backend (Node.js, Express, MongoDB) and frontend (React with animations).
 
 ## Project Structure
