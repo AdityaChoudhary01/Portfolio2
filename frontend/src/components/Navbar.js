@@ -86,13 +86,13 @@ export default function Navbar() {
         ))}
       </LinksContainer>
       <SocialIcons>
-        <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/aditya_choudhary__021/" target="_blank" rel="noopener noreferrer">
           <FaInstagram />
         </a>
-        <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/AdityaChoudhary01?" target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a>
-        <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/aditya-kumar-38093a304/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin />
         </a>
       </SocialIcons>
